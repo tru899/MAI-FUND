@@ -1,0 +1,3 @@
+/Users/user/Desktop/vscode/MAI/FUND/laba5_proj/build/CMakeFiles/laba5.dir
+/Users/user/Desktop/vscode/MAI/FUND/laba5_proj/build/CMakeFiles/edit_cache.dir
+/Users/user/Desktop/vscode/MAI/FUND/laba5_proj/build/CMakeFiles/rebuild_cache.dir

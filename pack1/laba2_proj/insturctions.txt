@@ -1,0 +1,7 @@
+cd ./laba2_proj
+
+rm -rf build
+
+docker build -t laba2 .  
+
+docker run --rm -it laba2 T //T = num

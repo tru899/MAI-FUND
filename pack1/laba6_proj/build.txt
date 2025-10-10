@@ -1,0 +1,1 @@
+leaks --atExit -- ./your_lab_name

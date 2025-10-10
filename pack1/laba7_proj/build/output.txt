@@ -1,0 +1,26 @@
+num: 1010; base: 2; to_decimal: 10
+num: 1F; base: 16; to_decimal: 31
+num: 077; base: 8; to_decimal: 63
+num: 0x1A; base: 34; to_decimal: 38192
+num: 000123; base: 4; to_decimal: 27
+num: zZ; base: 36; to_decimal: 1295
+num: 36; base: 7; to_decimal: 27
+num: GHI; base: 19; to_decimal: 6117
+num: -101; base: 2; to_decimal: -5
+num: 12; base: 3; to_decimal: 5
+num: 0; base: 2; to_decimal: 0
+num: 12345678901234567890; error: overflow
+num: abc123; base: 13; to_decimal: 4053663
+num: 1A3F; base: 16; to_decimal: 6719
+num: 0b1010; base: 12; to_decimal: 229836
+num: 0o77; base: 25; to_decimal: 15182
+num: 00FF; base: 16; to_decimal: 255
+num: -000000123; base: 4; to_decimal: -27
+num: 000000001010101; base: 2; to_decimal: 85
+num: 8,7; error: invalid input
+num: 6.8; error: invalid input
+num: 9/9; error: invalid input
+num: AAAAAAAAAAAAAAAAAAAAAAAAAAAA; error: overflow
+num: 9999999999999999999999999999999999999999999; error: overflow
+num: -0; base: 2; to_decimal: 0
+num: ll; base: 22; to_decimal: 483

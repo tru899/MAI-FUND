@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/laba8.dir/main.c.o CMakeFiles/laba8.dir/src/funcs.c.o -o laba8  -lm
